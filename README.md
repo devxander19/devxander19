@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devxander19
+- 👀 I’m interested in software development, drawing and what I can learn
+- 🌱 I’m currently learning server architecture
+- 💞️ I’m looking to collaborate on whatever is available
